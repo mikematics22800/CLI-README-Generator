@@ -1,10 +1,17 @@
-# 	CLI-README-Generator
+# a
 ## Description
-This is a command line interface built with [Inquirer.js](https://www.npmjs.com/package/inquirer) that generates professional README files. Here's a [walkthrough video](https://drive.google.com/file/d/1_331ACMY0ybXCw9XbXvyRlgvchyJ7ceh/view).
+a
 ## Installation
 ```
-cd $directory
-git clone github.com/mikemedina22800/CLI-README-Generator 
-cd CLI-README-Generator 
-npm i 
+a
 ```
+## Usage
+a
+## Contributing
+a
+## Tests
+a
+## License
+[![alt text](https://img.shields.io/badge/License-Academic_Free_License_v3.0-blue.svg)](https://opensource.org/licenses/AFL-3.0)
+## Questions
+Check my [Github Page](https://github.com/a) or email me at a.
