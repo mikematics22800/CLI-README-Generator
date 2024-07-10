@@ -32,6 +32,7 @@ Check my [Github Page](https://github.com/${answers.username}) or email me at ${
   )
   fs.writeFile('./README.md', contents, (error) => {
     if (error) {
+      console.log('An error has occurred. Ensure you have write permissions to the root directory.')
       console.log(error);
     } else {
       console.log('README file created successfully!');
