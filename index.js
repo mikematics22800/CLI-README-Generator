@@ -30,7 +30,7 @@ ${answers.tests}
 ## Questions
 Check my [Github Page](https://github.com/${answers.username}) or email me at ${answers.email}.`
   )
-  fs.writeFile('./README.md', contents, (error) => {
+  fs.writeFile('./output/README.md', contents, (error) => {
     if (error) {
       console.log('An error has occurred. Ensure you have write permissions to the root directory.')
       console.log(error);
